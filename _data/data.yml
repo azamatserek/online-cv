@@ -13,17 +13,16 @@ sidebar:
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-email: azamatserek97@gmail.com
-  phone: ""
-  timezone: Asia/Almaty
-  citizenship: Kazakhstan
-  website: https://azamatserek.github.io/online-cv/
+  email: azamatserek97@gmail.com
+  phone: 
+  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  citizenship: Almaty, Kazakhstan
+  website: https://azamatserek.github.io/online-cv/ # Include the full website URL, including "http://" or "https://".
   linkedin: azamatserek
   github: azamatserek
   telegram: azamatserek
-  scopus: https://www.scopus.com/authid/detail.uri?authorId=57207763595
-  orcid: https://orcid.org/0000-0001-7096-6765
-  scholar: https://scholar.google.com/citations?user=DQSOh_gAAAAJ&hl=ru
+  gitlab:
+  bitbucket:
   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
   languages:
@@ -56,139 +55,223 @@ email: azamatserek97@gmail.com
 career-profile:
   title: Career Profile
   summary: |
-Assistant Professor in Computer Science with a PhD and H-index of 5 in Scopus. 
-    Head of a government-funded scientific grant project, with research interests in artificial intelligence, 
-    deep learning, data mining, reinforcement learning, and large-scale web and mobile application development. 
-    Published extensively in Q1 and Q2 journals, IEEE conferences indexed in Web of Science and Scopus, and authored 
-    a textbook, a monograph, and a training manual. Skilled in teaching a wide range of courses, supervising MSc and PhD students, 
-    and leading software development teams in academic and corporate settings.
+    Summarise your career here lorem ipsum dolor sit amet, consectetuer
+    adipiscing elit. You can [download this free resume/CV template here]().
+    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+    Donec quam felis, ultricies nec, pellentesque eu.
+    Second paragraph if required.
 education:
   title: Education
   info:
-    - degree: PhD in Computer Science
-      university: SDU University, Kazakhstan
-      time: 2020 - 2023
-      details: |
-        Research in artificial intelligence, data mining, and optimization algorithms.
-    - degree: MSc in Computing Systems and Software
-      university: SDU University, Kazakhstan
-      time: 2018 - 2020
-      details: |
-        Specialized in cloud computing, backend development, and applied AI.
-    - degree: BSc in Computing Systems and Software
-      university: SDU University, Kazakhstan
-      time: 2014 - 2018
-      details: |
-        Focused on programming, databases, and algorithms.
-        
+  - degree: MSc in Computer Science
+    university: University of London
+    time: 2011 - 2012
+    details: |
+      Describe your study here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      sociis natoque penatibus et magnis dis parturient montes, nascetur
+      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      pretium quis, sem.
+        - Bullet point
+        - Bullet point
+  - degree: BSc in Applied Mathematics
+    university: Bristol University
+    time: 2007 - 2011
+    details: |
+      Describe your study here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      sociis natoque penatibus et magnis dis parturient montes, nascetur
+      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      pretium quis, sem.
+        - Bullet point
+        - Bullet point
+
 experiences:
   title: Experiences
   info:
-    - role: Assistant Professor
-      time: Sep 2024 – Present
-      company: Kazakh-British Technical University, Almaty, Kazakhstan
-      details: |
-        - Supervised PhD, MSc, and BSc students, publishing with MSc students.
-        - Taught courses including Research Tools and Methods, Reinforcement Learning, Deep Learning, Data Mining, Web & Mobile Development, Cloud Computing, Golang, and DBMS.
-        - Served as member of the master's defense commission.
-    - role: Associate Professor
-      time: Sep 2024 – Mar 2025
-      company: Paragon International University, Phnom Penh, Cambodia
-      details: |
-        - Conducted "Research Conference and Presentation" course for Master and PhD students.
-    - role: Senior Lecturer
-      time: Jun 2022 – Sep 2024
-      company: Narxoz University, Almaty, Kazakhstan
-      details: |
-        - Taught Mathematics for Computer Science, OOP, Algorithms & Data Structures, Backend & Frontend Development.
-    - role: Senior Lecturer
-      time: Sep 2020 – Sep 2024
-      company: SDU University, Kaskelen, Kazakhstan
-      details: |
-        - Academic advisor for 100+ students.
-        - Member of diploma defense committees.
-        - Taught ICT, Introduction to Algorithms, Advanced Algorithms, DBMS, Data Analysis, Virtualization, Server Administration, Golang Programming.
-    - role: Backend Developer / Project Manager
-      time: Apr 2020 – Jun 2022
-      company: Chocofamily Holding, Almaty, Kazakhstan
-      details: |
-        - Led Scrum processes and sprint planning.
-        - Managed mobile development teams.
-        - Used Jira, Confluence, Miro, Amplitude, Google BigQuery.
-    - role: Instructor
-      time: Sep 2018 – Sep 2020
-      company: SDU University, Kaskelen, Kazakhstan
-      details: |
-        - Taught Introduction to Algorithms, ICT, Programming Abstractions, Data Analysis.
+  - role: Lead Developer
+    time: 2015 - Present
+    company: Startup Hubs, San Francisco
+    details: |
+      Describe your role here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      Cum sociis natoque penatibus et magnis dis parturient montes,
+      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+      error sit voluptatem accusantium doloremque laudantium, totam rem
+      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+      architecto beatae vitae dicta sunt explicabo.
+        - Bullet point
+        - Bullet point
+  - role: Senior Software Engineer
+    time: 2014 - 2015
+    company: Google, London
+    details: |
+      Describe your role here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      Cum sociis natoque penatibus et magnis dis parturient montes,
+      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem.
+        - Bullet point
+        - Bullet point
+  - role: UI Developer
+    time: 2012 - 2014
+    company: Amazon, London
+    details: |
+      Describe your role here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      Cum sociis natoque penatibus et magnis dis parturient montes,
+      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem.
+        - Bullet point
+        - Bullet point
 
 certifications:
   title: Certifications
   list:
-    - name: IELTS 7.0
-      start: 2024
-      organization: British Council
-    - name: Business Analysis & Process Management
-      start: 2025
-      organization: Coursera
-    - name: Qlik Sense Data Analytics
-      organization: Tech Orda
-    - name: "RedHat Certified (6 courses)"
-    - name: "DataCamp Certificates (2 courses)"
-    - name: "Advanced Pedagogical Measurements"
-      start: 2024
-      organization: Ministry of Education and Science of Kazakhstan
+  - name: CV Builder
+    start: 2020
+    end: 2021
+    organization: Microsoft
+    credentialid: 111-222
+    credentialurl: www.google.com
+    credentialname: Google
+    details: |
+      Details about cert. Lorem ipsum dolor sit amet, consectetur
+      adipiscing elit.
+      Nullam eget orci purus. Nullam ultrices neque nibh.
+      Aenean fermentum, felis vulputate suscipit accumsan,
+      sem enim bibendum augue, sed convallis arcu lacus at dui.
+      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+      Praesent venenatis erat non augue suscipit consectetur.
+
+      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
+      fringilla vel. Ut euismod, sem sed vulputate venenatis,
+      justo diam viverra velit, sed rhoncus leo leo eu justo.
+      Suspendisse placerat risus ante, sed porta nisi blandit at.
+  - name: Git learning
+    start: 2019
+    end:
+    organization: Microsoft
+    credentialid: 111-222
+    credentialurl: www.github.com
+    credentialname: Github
+    details: |
+      Older certification. Lorem ipsum dolor sit amet, consectetur
+      adipiscing elit.
+      Nullam eget orci purus. Nullam ultrices neque nibh.
+      Aenean fermentum, felis vulputate suscipit accumsan,
+      sem enim bibendum augue, sed convallis arcu lacus at dui.
+      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+      Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
   title: Projects
   intro: >
-    Selected research and development projects led or contributed to.
+    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
-    - title: AI-based Fraud Detection System
-      tagline: Development of a real-time fraud detection system for phone calls and messaging using AI.
-    - title: QazSL Sign Language Recognition
-      tagline: Deep learning-based system for Kazakh Sign Language recognition.
-    - title: Student-Supervisor Matching Optimization
-      tagline: AI-powered algorithm for preference-based academic matchmaking.
+  - title: Velocity
+    link: "#hook"
+    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+  - title: DevStudio
+    link: "#"
+    tagline: "A responsive website template designed to help web developers/designers market their services."
+
+  - title: Tempo
+    link: "#"
+    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+  - title: Atom
+    link: "#"
+    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+  - title: Delta
+    link: "#"
+    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+oss:
+  title: OSS Contributions
+  intro: >
+    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  contributions:
+  - title: Tempo
+    link: "#"
+    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+  - title: Atom
+    link: "#"
+    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+  - title: Delta
+    link: "#"
+    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
   title: Publications
   intro: |
-    Selected peer-reviewed journal and conference publications.
+    You can list your publications in this section. Lorem ipsum dolor sit
+    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+    bibendum fringilla a eu lectus.
   papers:
-    - title: Crowd Density Estimation using Enhanced Multi-Column CNN and Adaptive Collation
-      link: https://doi.org/10.1109/ACCESS.2025.3597393
-      authors: A. Serek et al.
-      conference: IEEE Access (Q1)
-    - title: Development of an AI-based Communication Fraud Detection System
-      link: https://doi.org/10.18576/amis/190419
-      authors: K. Kuanyshbay et al.
-      conference: Applied Mathematics & Information Sciences (Q2)
-    - title: Deep Learning-based Continuous Sign Language Recognition
-      link: https://doi.org/10.18196/jrc.v6i3.25881
-      authors: L. Zholshiyeva et al.
-      conference: Journal of Robotics and Control (Q1)
+  - title: The Art of Computer Programming
+    link: "#"
+    authors: Donald E. Knuth
+    conference: Addison-Wesley, 1968
+
+  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+    link: "#"
+    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+  - title: A syntax directed compiler for Algol 60
+    link: "#"
+    authors: Edgar T. Irons
+    conference: "Comm. ACM 4 (1961), 51–55"
+
+recommendations:
+  title: Recommendations
+  list:
+  - person: Yareli Perez
+    email: perezyareli@example.com
+    phone: 012 345 6789
+    role: General Director at example.com
+    recommendation: |
+      Alan Doe is a super employee!
+  - person: Lara Henderson
+    email: larah@example.com
+    phone: 012 345 6789
+    role: General Director at example.com
+    recommendation: |
+      I would like to work with Alan Doe again!
+
+      He is a great employee!
 
 skills:
-  title: Skills & Proficiency
+  title: Skills &amp; Proficiency
+
   toolset:
-    - name: Python, Django, Flask
-      level: 98%
-    - name: Java, Kotlin, Android Development
-      level: 95%
-    - name: Golang
-      level: 95%
-    - name: JavaScript, React, Node.js
-      level: 92%
-    - name: SQL, PostgreSQL, MySQL
-      level: 92%
-    - name: Machine Learning, Deep Learning
-      level: 90%
-    - name: Cloud Platforms (AWS, GCP)
-      level: 90%
-    - name: Docker, Kubernetes
-      level: 88%
-    - name: HTML5, CSS
-      level: 85%
+  - name: Python & Django
+    level: 98%
+
+  - name: Javascript & jQuery
+    level: 98%
+
+  - name: Angular
+    level: 98%
+
+  - name: HTML5 & CSS
+    level: 95%
+
+  - name: Ruby on Rails
+    level: 85%
+
+  - name: Sketch & Photoshop
+    level: 60%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
