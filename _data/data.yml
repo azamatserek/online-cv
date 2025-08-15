@@ -10,8 +10,8 @@ sidebar:
   # Profile information
   name: Azamat Serek
   tagline: Associate Professor
-  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-
+  avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  scopus: https://www.scopus.com/authid/detail.uri?authorId=57207763595
   # Sidebar links
   email: azamatserek97@gmail.com
   phone: 
@@ -55,12 +55,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+  Assistant Professor in KBTU. Head of scientific grant funded by the Ministry. PhD in Computer Science. H-index 5 in Scopus. 4 Q1, 2 Q2, 1 Q3, 10 IEEE conferences indexed in Web of Science and Scopus, 3 Kokson. 1 textbook, 1 monography, 1 training manual.
 education:
   title: Education
   info:
